@@ -1,0 +1,44 @@
+.heading {
+  padding: 5px;
+  background-color:#e6e6e6;
+  margin: 0px -20px;
+
+}
+.heading2 {
+  padding: 5px;
+  background-color:#e6e6e6;
+  margin: 5px -20px;
+
+}
+table {
+  width: 100%;
+  background-color: grey;
+
+}
+tr,th {
+  border: 2px solid black;
+  text-align: center;
+  background-color:#e6e6e6;
+
+}
+td {
+  border: 2px solid black;
+  background-color: #f0f4ff;
+
+}
+.blue {
+  background-color: #f0f4ff;
+
+}
+.lgreen {
+  background-color: #f0f4ff;
+
+}
+.px-2 {
+  padding: 0px 20px;
+
+}
+.py-2 {
+    padding: 20px;
+
+}
